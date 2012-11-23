@@ -31,11 +31,24 @@ Why Puppet?
 
 > *Use case* Front Enders, Back Enders...
 
+<img style="width: 629px; opacity: 1.0; height: 209px" src="https://raw.github.com/jjperezaguinaga/PuppetPresentation/master/images/twelve.png"/>
+
 
 Who does Puppet?
 =============
 
 ### Fortune 500's
+
+> Sun/Oracle, Citrix...
+
+### Web Companies
+
+> Hootsuite, Rackspace...
+
+### CERN a.k.a The European Organization for Nuclear Research
+
+> The Large Hadron Collider
+
 
 
 No matter what vendors tell you - no need to "Light Up the Web" - relax - built on
