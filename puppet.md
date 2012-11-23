@@ -61,9 +61,11 @@ How to Puppet?
 
 > [Puppet Agent](http://docs.puppetlabs.com/learning/agentprep.html)
 
-No matter what vendors tell you - no need to "Light Up the Web" - relax - built on
-an *open architecture using universal identifiers, formats & protocols and __evolving__
-open standards* - no need to reinvent the wheel and sign-up for single-vendor offerings.
+### [Vagrant](http://vagrantup.com/)
+
+> Virtualized Development for the masses.
+
+<img style="width: 926px; opacity: 1.0; height: 347px" src="https://raw.github.com/jjperezaguinaga/PuppetPresentation/master/images/Vagrant.png"/>
 
 ### Broad Definition
 
