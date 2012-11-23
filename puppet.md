@@ -67,13 +67,9 @@ How to Puppet?
 
 <img style="width: 926px; opacity: 1.0; height: 347px" src="https://raw.github.com/jjperezaguinaga/PuppetPresentation/master/images/Vagrant.png"/>
 
-### Broad Definition
+# Puppet Example - Open GL
 
-- Best Practices for Designing Web Services for a Unified Human and Programable Web
-
-### Narrow Definition
-
-- Alternative to BigCo Web Services (SOAP, WS-*) and RPC-Style Web Services (XML-RPC)
+<img style="width: 1024px; opacity: 1.0; height: 576px" src="https://raw.github.com/jjperezaguinaga/PuppetPresentation/master/images/OpenGL.png"/>
 
 What's REST?5
 =============
