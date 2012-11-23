@@ -1,7 +1,5 @@
 h1. Puppet: What, why, who, how and when.
 
-*Agenda*
-
 * What's Puppet?
 * Why Puppet?
 * Who does Puppet?
